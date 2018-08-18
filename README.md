@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+Administració de bases de dades, UF2 (ASIX)
+====================================
 
-You can use the [editor on GitHub](https://github.com/jrodr236/ADB-UF2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+UF2. Instal·lació i ajustament de SGBD corporatiu
+----------------------
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* [Implantació de sistemes gestors de bases de dades corporatius](ImplantacioSGBD.md)
+* ...
 
-### Markdown
+---
+Basat en el [material didàctic de l'Institut Obert de Catalunya](https://ioc.xtec.cat/materials/FP/Materials/2251_ASIX/ASIX_2251_M10/web/html/index.html).
+* © Departament d'Ensenyament.
+* Coordinació: Maribel Perramon Cuadrat
+* Redacció: Joan Anton Pérez Braña
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+Autor: Joan Rodríguez Bellido
 
-# Header 1
-## Header 2
-### Header 3
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Llicència de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 
-- Bulleted
-- List
+Aquesta obra està subjecta a una llicència de <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Reconeixement 4.0 Internacional de Creative Commons</a>
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jrodr236/ADB-UF2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[#FpInfor](https://profesinformatica.github.io/FpInfor/) #Asix #AsixM10 #AsixM10Uf02
