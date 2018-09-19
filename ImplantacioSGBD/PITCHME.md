@@ -1,7 +1,7 @@
 Implantació de sistemes gestors de bases de dades corporatius
 =========================
 
-[Veure Teoria](https://jrodr236.github.io/ADB-UF2/ImplantacioSGBD.html)
+[Veure Teoria](https://jrodr236.github.io/ABD-UF2/ImplantacioSGBD.html)
 
 ---
 
