@@ -93,20 +93,6 @@ Les formes bàsiques més comunes d’arranjaments RAID utilitzats són:
 - RAID 6
 
 
-Suports de còpies de seguretat
-------------------------
-
-L’elecció del dispositiu de còpia de
-seguretat depèn sempre de la mida de l’organització, el volum de dades, el cost,
-etc.
-
-Alguns exemples de suports:
-* Cintes
-* Biblioteques de còpia
-* Discos òptics
-* Discos durs
-
-
 Evolució i funcions dels SGBD
 -----------------------
 
@@ -117,7 +103,7 @@ Evolució i funcions dels SGBD
 _(Actualitat = Anys 2000)_
 
 **Present:**
-- Grans volums de dades
+- Volums de dades gegantines
 - Dades desestructurades
 - noSQL
 

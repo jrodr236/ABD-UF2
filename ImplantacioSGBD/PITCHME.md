@@ -1,4 +1,4 @@
-Implantació de sistemes gestors de bases de dades corporatius
+Implantació de SGBD corporatius
 =========================
 
 [Veure Teoria](https://jrodr236.github.io/ABD-UF2/ImplantacioSGBD.html)
