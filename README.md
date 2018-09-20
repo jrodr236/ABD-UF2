@@ -5,7 +5,7 @@ UF2. Instal·lació i ajustament de SGBD corporatiu
 ----------------------
 
 * [Implantació de sistemes gestors de bases de dades corporatius](ImplantacioSGBD.md)
-* ...
+* [Sistemes de bases de dades i comunicacions](SistemesDeBasesDeDadesIComunicacions.md)
 
 ---
 Basat en el [material didàctic de l'Institut Obert de Catalunya](https://ioc.xtec.cat/materials/FP/Materials/2251_ASIX/ASIX_2251_M10/web/html/index.html).
