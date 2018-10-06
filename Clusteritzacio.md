@@ -1,5 +1,8 @@
 Clusterització de l'SGBD
 ========
+* [Resum](https://gitpitch.com/jrodr236/ABD-UF2/master?p=Clusteritzacio)
+* Exercicis teòrics: _pendent_
+* Exercicis pràctics: _pendent_
 
 Entenem com a **clusterització** l’ús de sistemes de computació múltiples i
 independents com un de sol. La majoria dels programaris actuals ofereixen
