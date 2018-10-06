@@ -2,9 +2,6 @@
 Sistemes de bases de dades i comunicacions
 ====================================
 
-Implantació de sistemes gestors de bases de dades corporatius
-=========================
-
 * [Resum](https://gitpitch.com/jrodr236/ABD-UF2/master?p=SistemesDeBasesDeDadesIComunicacions)
 * Exercicis teòrics: _pendent_
 * Exercicis pràctics: _pendent_
