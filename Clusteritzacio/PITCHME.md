@@ -25,6 +25,4 @@ en xarxa.
 **Arquitectura no compartida (shared-nothing)**
 
 Utilitzar varis equips. La interconnexió s’ha de fer mitjançant la xarxa, i es passaran informació d'una CPU a l'altra. Les dades físiques
-no es comparteixen, sinó que cada disc és independent de l’altre. El sistema
-s’encarrega d’enviar cada consulta a la CPU que disposa de la informació
-demanada.
+no es comparteixen (discos independents).
