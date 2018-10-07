@@ -46,3 +46,31 @@ Un client sol·licita serveis directament al servidor.
 Les sol·licituds del client són manejades per servidors intermedis.
 
 <img src="https://ioc.xtec.cat/materials/FP/Materials/2251_ASIX/ASIX_2251_M10/web/html/WebContent/u3/media/ic10m10u3_07.png" height="300px">
+
+---
+
+Clusterització de l'SGBD
+----
+
+
+Ús de sistemes de computació múltiples i
+independents com un de sol. 
+
++++
+
+Dos tipus de clusterització:
+
++++
+
+### Compartició de disc (shared-disk)**
+
+Diverses CPU i
+memòries treballant en els mateixos discos durs, els quals estan connectats
+en xarxa. 
+
++++
+
+### Arquitectura no compartida (shared-nothing)**
+
+Utilitzar varis equips. La interconnexió s’ha de fer mitjançant la xarxa, i es passaran informació d'una CPU a l'altra. Les dades físiques
+no es comparteixen (discos independents).
