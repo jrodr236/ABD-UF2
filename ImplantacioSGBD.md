@@ -175,6 +175,8 @@ Aquests son alguns dels productes disponibles al mercat:
 4. PostgreSQL (programari lliure amb llicència BSD).
 5. MySQL (Oracle Corporation) / MariaDB
 6. SQLite
+7. MongoDB
+8. Apache Cassandra
 
 Per escollir un SGBD hem de tenir en compte, entre altres coses:
 - El suport per als nostres sistemes operatius.
