@@ -2,7 +2,7 @@ Implantació de sistemes gestors de bases de dades corporatius
 =========================
 
 * [Resum](https://gitpitch.com/jrodr236/ABD-UF2/master?p=ImplantacioSGBD)
-* Exercicis teòrics: _pendent_
+* Exercicis teòrics: _moodle_
 * [Exercicis pràctics](ExercicisImplantacioSGBD.md)
 
 Utilització de fitxers segons la seva organització
