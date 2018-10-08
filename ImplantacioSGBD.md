@@ -32,6 +32,11 @@ no cap en un sol bloc, es repartirà entre uns quants.
 Els **índexs** són estructures d’accés que s’utilitzen per accelerar l’accés als
 registres en resposta a certes condicions de cerca.
 
+Quan cal accedir a un valor d’una columna en què no hi ha definit cap índex, l’SGBD ha de consultar tots els valors de totes les columnes des de la primera fins a l’última. Això resulta molt costós en temps i, com més files té la taula en qüestió, més lenta és l’operació. En canvi, si tenim definit un índex en la columna de cerca, l’operació d’accedir a un valor concret resulta molt més ràpid,perquè no cal accedir a tots els valors de totes les files per trobar el que es busca.
+
+Els **índexs B-tree** són una organització de les dades en forma d’arbre, de manera que buscar un valor d’una dada resulti més ràpid que buscar-la dins d’una estructura lineal en què s’hagi de buscar des de l’inici fins al final passant per tots els valors.
+
+Els **índexs tipus hash** tenen com a objectiu accedir directament a un valor concret mitjançant una funció anomenada funció de hash. Per tant, buscar un valor és molt ràpid.
 
 Dispositius d’emmagatzematge
 --------------------

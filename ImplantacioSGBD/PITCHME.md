@@ -32,6 +32,14 @@ no cap en un sol bloc, es repartirà entre uns quants.
 Els **índexs** són estructures d’accés que s’utilitzen per accelerar l’accés als
 registres en resposta a certes condicions de cerca.
 
++++
+
+Tipus:
+
+**Índexs B-tree** (arbre): objectiu accés des d'inici a final passant per tots els valors.
+
+**Índexs hash**: objectiu accedir directament a un valor concret.
+
 
 Dispositius d’emmagatzematge
 --------------------
