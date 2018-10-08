@@ -4,7 +4,7 @@ Sistemes de bases de dades i comunicacions
 
 * [Resum](https://gitpitch.com/jrodr236/ABD-UF2/master?p=SistemesDeBasesDeDadesIComunicacions)
 * Exercicis teòrics: _pendent_
-* Exercicis pràctics: _pendent_
+* [Exercicis pràctics](ExercicisSistemesDeBasesDeDadesIComunicacions.md)
 
 Sistemes centralitzats
 --------------------
