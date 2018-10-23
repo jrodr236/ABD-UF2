@@ -165,6 +165,8 @@ Per escollir SGBD, tenir en compte:
 
 _Es veurà al proper tema_
 
++++
+
 ### Requeriments de l'SGBD
 
 - Ús de la versió correcta del SO
