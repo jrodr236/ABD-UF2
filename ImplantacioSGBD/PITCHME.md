@@ -28,6 +28,7 @@ Tipus:
 
 **Índexs hash**: objectiu accedir directament a un valor concret.
 
+---
 
 Dispositius d’emmagatzematge
 --------------------
